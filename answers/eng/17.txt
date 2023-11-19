@@ -1,0 +1,10 @@
+풀이 과정:
+문제에서는 언급되지 않은 나라를 물어보고 있습니다. 지문을 살펴보면 네 군데의 건축 예가 언급되었습니다.
+1. 싱가포르(Singapore)의 'Enabling Village'라는 커뮤니티 센터,
+2. 멕시코(Mexico)의 'Tubohotel'이라는 호텔,
+3. 인도네시아(Indonesia)에 위치한 'Microlibrary Bima'라는 작은 지역 도서관,
+4. 프랑스(France)의 'Circular Pavilion'이라는 건물입니다.
+
+우리는 이 중 언급되지 않은 나라를 찾아야 합니다. 문제 선택지에서 ① Singapore, ② Mexico, ④ Indonesia, ⑤ France는 모두 지문에 언급되었습니다. 따라서 ③ Australia가 지문에서 언급되지 않은 유일한 나라입니다.
+
+정답: ③ Australia

@@ -1,0 +1,13 @@
+풀이 과정:
+이 문제를 해결하기 위한 접근 방식은 주어진 대본을 여러 번 읽고 각각의 선택지를 대본의 내용과 일일이 대조하는 것입니다. 선택지와 일치하지 않는 내용을 찾아내야 합니다. 따라서 대본에서 다룬 특징적인 정보들(날짜, 제공되는 서비스, 시간, 출발 지점, 가격, 선물)을 주의 깊게 확인해야 합니다. 대본을 살펴보면서 각 선택지가 제시된 정보와 일치하는지를 확인해 갈 것입니다.
+
+1. 11월에 매일 진행된다 → 대본에 이와 일치하는 정보가 있음("This tour runs every day in November.")
+2. 안내 책자가 무료로 제공된다 → 대본에 이와 일치하는 정보가 있음("Also, brochures are provided for free")
+3. 오전 10시 30분에 시작한다 → 대본에 이와 일치하는 정보가 있음("The tour begins at 10:30 a.m.")
+4. 출발 지점은 Central Studio의 남쪽 문이다 → 대본에 이와 불일치하는 정보("The starting point is at the north gate of Central Studio.")
+5. 참가자 전원은 선물을 받을 것이다 → 대본에 이와 일치하는 정보가 있음("All participants will receive a postcard as a gift.")
+
+정답:
+4번 선택지가 대본에서 제공한 정보와 일치하지 않습니다. 골든 팔레트 워킹 투어는 Central Studio의 북쪽 문에서 시작하고, 선택지에서는 '남쪽 문'이라고 언급되어 있으므로 정확하지 않습니다. 
+
+정답: ④ 출발 지점은 Central Studio의 남쪽 문이다.

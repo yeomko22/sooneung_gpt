@@ -1,0 +1,19 @@
+풀이 과정:
+이 문제는 글의 내용을 바탕으로 필자가 주장하는 가장 적합한 것을 선택하는 문제입니다. 제시된 문장들을 바탕으로 핵심 주장을 파악해야 합니다.
+
+문장별 주요 내용을 살펴보겠습니다:
+- "Values alone do not create and build culture." (단순한 가치만으로는 문화를 창조하고 구축하지 않는다.)
+- "Living your values only some of the time does not contribute to the creation and maintenance of culture." (가치를 때때로 실천하는 것은 문화 창조와 유지에 기여하지 않는다.)
+- "Changing values into behaviors is only half the battle." (가치를 행동으로 바꾸는 것은 전체 과정의 절반일 뿐이다.)
+- "Those behaviors must then be shared and distributed widely..." (그런 후에는 해당 행동들이 널리 공유되고 분배되어야 한다.)
+- "It is critical to have a visual representation of the specific behaviors..." (구체적인 행동들에 대한 시각적인 표현을 갖는 것이 중요하다.)
+- "Just like a sports team has a playbook..." ('스포츠 팀에 플레이북이 있는 것처럼 조직도 문화를 행동으로 전환시키고 가치를 승리하는 행동들로 바꾸기 위한 주요 변화를 담고 있는 플레이북을 가져야 한다.')
+
+이를 종합하면, 필자는 단순히 가치에 대해 얘기하는 것이 아니라 실제로 구성원들이 이를 행동으로 옮기고, 이 행동들을 구체적이고 명시적인 방식으로 조직 전체와 공유해야 한다는 것을 주장하고 있습니다. 강조하는 부분은 가치를 실천하기 위한 구체적인 행동 지침과 그 공유의 중요성입니다.
+
+정답은 이 주장에 가장 부합하는 선택지를 고르는 것입니다.
+
+정답:
+⑤ 조직의 문화 형성에는 가치를 반영한 행동의 공유를 위한 명시적 지침이 필요하다
+
+문제에서 언급된 "visual representation," "specific behaviors," "playbook," "key shifts needed to transform your culture into action" 등의 단서들이 제시한 내용과 답안 ⑤의 내용이 일치하므로 이것이 가장 적합한 답입니다. 다른 선택지들은 필자의 주장과 부분적으로 맞을 수 있으나, 제시된 글의 내용을 가장 정확하게 반영하는 것은 ⑤번 선택지입니다.

@@ -1,0 +1,12 @@
+풀이 과정:
+안내문의 내용을 확인해서 각각의 주장을 비교합니다.
+
+1. 주말에 운영 횟수: "Weekends: 9am - 1pm, 1pm - 5pm" 이므로, 주말에 하루에 두 번 운영된다는 주장은 사실입니다.
+2. 참가 연령 제한: "Only those aged 17 and over can participate" 이므로, 17세 이상만 참가 가능하다는 주장은 사실입니다.
+3. 예약에 대한 규정: "Bookings must be completed no later than 2 days before the day of the tour" 이므로, 당일 예약이 가능하다는 주장은 사실이 아닙니다.
+4. 환불 정책: "No refunds after the departure time" 이므로, 출발 시간 이후에 환불이 불가능하다는 주장은 사실입니다.
+5. 활동 내용: "Snorkeling with a professional diver" 이므로, 전문 다이버와 함께하는 스노클링 활동이 있다는 주장은 사실입니다.
+
+따라서 당일 예약이 가능하다는 ③번 주장이 안내문의 내용과 일치하지 않습니다.
+
+정답: ③ 당일 예약이 가능하다.

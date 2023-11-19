@@ -1,0 +1,7 @@
+풀이 과정: 이 문제를 푸는 첫 번째 단계는 주어진 글이 어떤 주장을 하고 있는지 파악하는 것입니다. 글의 주제는 다양한 과학 분야에서도 평범한 재능을 가진 사람들이 주목할만한 작업을 할 수 있다는 것입니다. 이는 그들이 한 번에 모든 분야를 다루려 하지 않고 시간에 따라 하나의 주제에 집중할 때 가능하다고 합니다. 그러므로, (A)에는 이러한 연구 방식이 무언가를 '가능하게 한다'는 의미의 단어가 들어가야 합니다. 여기서 가장 적절한 것은 'enables' 입니다.
+
+또한, 이 글은 앞선 지식이 뇌에 간소화된 형태로 유지되어 새로운 학습을 위한 공간이 남게 된다고 설명합니다. 따라서, (B)에는 새로운 학습을 위한 '공간을 남기다' 또는 '부여하다'는 의미의 단어가 들어가야 하는데, 이에 가장 적절한 것은 'leaves' 입니다.
+
+따라서, "Exploring one scientific subject after another enables remarkable work across the sciences, as the previously gained knowledge is retained in simplified forms within the brain, which leaves room for new learning." 이 문장은 주어진 글의 내용을 충실하게 요약하고 있습니다.
+
+정답: ① enables - leaves

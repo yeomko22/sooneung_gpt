@@ -1,0 +1,17 @@
+풀이 과정: 이 질문은 대화의 내용을 바탕으로 적절한 응답을 고르는 문제입니다. 대화를 분석하면, 남자가 여자의 생일파티에 참석할 수 없다고 말하고 있습니다. 이에 대한 여자의 반응으로 가장 합리적인 것을 선택해야 합니다.
+
+- 남자는 여자에게 생일파티에 관해 말하고자 합니다(M: I have something to tell you about your birthday party this Saturday).
+- 여자는 남자가 파티에 참석할 것이라고 기대하며 올 것을 바랍니다(W: Oh, Clark. You’re coming, right? I’d really love it if you could come. All our friends will be there).
+- 남자는 비즈니스 여행 때문에 참석할 수 없음을 밝힙니다(M: I’m afraid I can’t make it this time. I have to go on a business trip with my boss this weekend).
+
+위의 대화 내용에 근거하여 여자의 가장 적절한 응답을 선택하려면 생일파티에 참석하지 못하게 되어 유감이라는 반응이어야 합니다.
+
+- ①은 "참석할 수 없다니 정말 아쉽다. 거기에서 만날 수 있기를 기대했어."라는 반응으로, 주어진 상황과 일치합니다.
+- ②는 남자가 파티에 참석할 수 있다고 오해하는 반응입니다. 이는 상황과 맞지 않습니다.
+- ③은 파티가 이미 끝났다는 응답으로, 대화의 맥락과 부합하지 않는 응답입니다.
+- ④는 비즈니스 여행을 남자를 대신하여 준비해주겠다는 반응으로, 주제와 전혀 상관없는 응답입니다.
+- ⑤는 남자의 보스가 월요일에 여행에서 돌아온다는 정보를 제공하는데, 이것 역시 대화와 관계가 없는 내용입니다.
+
+정답: 빠진 정보나 잘못된 정보 없이 주어진 대화를 토대로 상황에 적합한 답변을 선택해야 합니다. ①번은 남자가 파티에 참석할 수 없다는 사실에 대한 적절한 유감의 표현이므로 가장 적절한 응답입니다. 
+
+정답: ① That’s too bad. I was looking forward to seeing you there.
