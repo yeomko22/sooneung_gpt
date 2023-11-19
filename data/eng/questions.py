@@ -81,11 +81,7 @@ W: That’s true. I love its design. Oh, those two chairs look comfortable. I’
 M: Me, too. And isn’t that striped tablecloth really eye-catching?
 W: It certainly is. Everything looks really good. You did an excellent job!
 
-① 
-②
-③ 
-④ 
-⑤ 
+① ② ③ ④ ⑤ 
 """
 
 question_5 = """
@@ -1163,18 +1159,18 @@ sunrise, they finished their preparations for the bicycle ride
 along the beach road. Emma turned to Clara with a question,
 “Do you think this will be your favorite ride ever?” Clara’s
 face lit up with a bright smile as she nodded. “Definitely!
-(a) I can’t wait to ride while watching those beautiful waves!”
+(a) (I) can’t wait to ride while watching those beautiful waves!”
 
 (B)
 When they reached their destination, Emma and Clara
 stopped their bikes. Emma approached Clara, saying “Bicycle
 riding is unlike swimming, isn’t it?” Clara answered with a
 smile, “Quite similar, actually. Just like swimming, riding
-makes me feel truly alive.” She added, “It shows (b) me what
+makes me feel truly alive.” She added, “It shows (b) (me) what
 it means to live while facing life’s tough challenges.” Emma
 nodded in agreement and suggested, “Your first beach bike
 ride was a great success. How about coming back next summer?”
-Clara replied with delight, “With (c) you, absolutely!”
+Clara replied with delight, “With (c) (you), absolutely!”
 
 (C)
 Clara used to be a talented swimmer, but she had to give up
@@ -1183,7 +1179,7 @@ because of shoulder injuries. Yet she responded to the hardship
 in a constructive way. After years of hard training, she made
 an incredible recovery and found a new passion for bike
 riding. Emma saw how the painful past made her maturer and
-how it made (d) her stronger in the end. One hour later, Clara,
+how it made (d) (her) stronger in the end. One hour later, Clara,
 riding ahead of Emma, turned back and shouted, “Look at the
 white cliff!”
 
@@ -1195,7 +1191,7 @@ excitement and exclaimed, “Clara, the view is amazing!”
 Clara’s silence, however, seemed to say that she was lost in her
 thoughts. Emma understood the meaning of her silence.
 Watching Clara riding beside her, Emma thought about Clara’s
-past tragedy, which (e) she now seemed to have overcome.
+past tragedy, which (e) (she) now seemed to have overcome.
 
 ① (a)
 ② (b) 

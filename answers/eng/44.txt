@@ -1,23 +1,13 @@
 풀이 과정:
-이 문제는 밑줄 친 대명사(a)～(e)가 각 문장에서 지칭하는 대상이 무엇인지를 잘 파악하는 것이 관건입니다. 각각의 대명사가 가리키는 대상을 확인합시다.
+밑줄 친 (a)～(e)의 대상을 확인해보겠습니다.
 
-(A) "I can’t wait to ride while watching those beautiful waves!” 여기서 (a)는 'I'로 Clara 자신을 지칭합니다.
+(a) "I"는 클라라를 가리킵니다.
+(b) "me" 역시 클라라를 가리키는 말입니다.
+(c) "you"는 엠마를 가리키는 말입니다.
+(d) "her"는 클라라를 가리키는 말입니다.
+(e) "she"는 클라라를 가리키는 말입니다.
 
-(B) “It shows me what it means to live while facing life’s tough challenges.” 여기서 (b)는 자신에게 무엇인가를 보여주는 것으로 해석되므로 'riding'을 의미합니다.
+이 중에서 나머지 넷과 다른 대상을 가리키는 것은 (c) "you"로, 다른 네 개는 모두 클라라를 가리키는 반면,
+(c)만 엠마를 가리킵니다. 따라서 정답은:
 
-(C) “With you, absolutely!” 여기서 (c)는 'you'로 Emma를 지칭합니다.
-
-(D) “...and how it made her stronger in the end.” 여기서 (d)는 'her'로 Clara를 지칭합니다.
-
-(E) “...which she now seemed to have overcome.” 여기서 (e)는 'she'로 Clara를 지칭하는데, 이 문장에서 Clara가 극복한 것은 그녀의 'past tragedy'입니다.
-
-결론적으로, 선택지별로 가리키는 대상을 정리해보면:
-① (a) - Clara (자기 자신)
-② (b) - Riding (자전거 타기)
-③ (c) - Emma (다른 사람)
-④ (d) - Clara (자기 자신)
-⑤ (e) - Past tragedy (과거의 비극)
-
-이 근거로 (a), (d), (e)는 모두 Clara를 직접 또는 간접적으로 지칭하며, (c)는 Emma를 지칭합니다. (b)만이 추상적인 개념인 'riding'을 지칭하므로 나머지 네 항목과 다른 대상을 가리키는 것입니다.
-
-정답: ② (b)
+정답: ③ (c)
